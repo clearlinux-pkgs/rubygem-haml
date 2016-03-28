@@ -1,4 +1,4 @@
 # File auto-generated with 'Watchfile generator'
-# 2016-02-25 23:03:08.350631
-# {'development', '>=4.0.6', '<5.0', '>=0', '~>4.0.0', '>=1.0.1'}
-watchurl=https://rubygems.org/gems/haml/versions/([0-4]\.0(\.[0-9]{1,2})?)
+# 2016-03-23 21:32:46.062880
+# {'<5.0', 'development', '>=4.0.6', '~>4.0.0', '>=0'}
+watchurl=https://rubygems.org/gems/haml/versions/([0-4]\.0(?:\.[0-9]{1,2})*)
